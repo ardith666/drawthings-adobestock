@@ -3,11 +3,12 @@ MIT License
 Copyright (c) 2026 ardith666
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), including
+but not limited to the scripts, skill definitions, and workflows in this
+repository, to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -19,3 +20,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## What This Covers
+
+- **SKILL.md** — OpenClaw skill definition and workflow instructions
+- **drawthings_batch.py** — image generation and metadata embedding script
+- **add_keywords_fast.py** — keyword extraction and XMP embedding script
+- **README.md** — documentation and usage instructions
+- Any other files included in this repository
+
+## What This Does NOT Cover
+
+- **Adobe Stock images** generated using this tool are subject to Adobe Stock's
+  Contributor Terms of Service and any applicable generative AI content policies.
+- **Draw Things app** — owned by its respective authors
+- **exiftool** — licensed under its own terms (Artistic License / GPL)
+- **Pillow** — licensed under HPND/BSD-like license
+
+## Attribution
+
+If you use or adapt this work, attribution to "ardith666" is appreciated
+but not required by the MIT license.
