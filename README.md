@@ -39,4 +39,7 @@ Or invoke via OpenClaw: `drawthings-adobestock` — skill will ask quantity + th
 
 ## License
 
-MIT © 2026 ardith666
+MIT © 2026 ardith666 — see [LICENSE](LICENSE) for full text.
+
+Covers scripts, skill definitions, and documentation in this repo.
+Not covered: generated images (subject to Adobe Stock ToS), third-party dependencies.
